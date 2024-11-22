@@ -5,30 +5,21 @@ Atliq Grands, a luxury hotel chain in India, has faced significant challenges:
 - **Decreasing Market Share**: Competitors are gaining an edge with strategic moves.
 - **Declining Revenue**: Ineffective decision-making has impacted the luxury and business hotel categories.
 - **Lack of Data Intelligence**: The absence of a data analytics team has hindered informed decision-making.
-
+### Mock Dashboard
+![Mock Dashboard](https://github.com/M-Talha-1/Revenue-Insights-in-Hospitality-Domain/blob/a0fc10978633d988876cf0a82b45b7749db85d97/Assets/mock%20up%20dashboard_atliq%20grands.png)
 To address these issues, Atliq Grands decided to implement **Business and Data Intelligence**. They need a data analytics service provider (I) to analyze their historical data and provide actionable insights to regain market share and revenue.
 
 ---
 
 ## Task List
 1. **Metric Development**:
-   - Created key performance indicators (KPIs):
-     - **Revenue Metrics**: Revenue, ADR (Average Daily Rate), RevPar (Revenue per Available Room).
-     - **Booking Metrics**: Checked-out Rate, Cancellation Rate, No-Show Rate.
-     - **Demand Metrics**: DSRN (Demand-Supply Ratio), DURN, DBRN.
-   - Segmented insights for weekdays and weekends.
+   - Created key performance indicators (KPIs) according to the metric list
 
 2. **Dashboard Creation**:
-   - Designed an **interactive dashboard** with slicers to analyze data by:
-     - Property Category, Room Category, City, Booking Platform, Booking Status.
-   - Built visualizations including line charts, bar charts, and pie charts.
+   - Designed an **interactive dashboard** according to a mock dashboard provided by stakeholder
 
 3. **Additional Insights**:
-   - Identified trends beyond stakeholder requirements:
-     - Booking behavior by time (weekdays vs. weekends).
-     - Performance of booking platforms and cities.
-     - Revenue-driving categories and room types.
-
+   - Identified trends beyond stakeholder requirements
 ---
 
 ## Dashboard Features
@@ -56,7 +47,10 @@ To address these issues, Atliq Grands decided to implement **Business and Data I
   - Property Category, Room Category, City, Booking Platform, and Booking Status.
 
 ---
+## Data Model
+![Data Model](https://github.com/M-Talha-1/Revenue-Insights-in-Hospitality-Domain/blob/a0fc10978633d988876cf0a82b45b7749db85d97/Assets/Data%20Model.png))
 
+---
 ## Insights and Recommendations
 1. **Revenue and Occupancy Trends**:
    - **Weekday Performance**: Higher revenue and occupancy during weekdays indicate potential for targeted weekend promotions.
