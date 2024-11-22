@@ -6,7 +6,7 @@ Atliq Grands, a luxury hotel chain in India, has faced significant challenges:
 - **Declining Revenue**: Ineffective decision-making has impacted the luxury and business hotel categories.
 - **Lack of Data Intelligence**: The absence of a data analytics team has hindered informed decision-making.
 
-To address these issues, Atliq Grands decided to implement **Business and Data Intelligence**. They hired a 3rd-party data analytics service provider (you) to analyze their historical data and provide actionable insights to regain market share and revenue.
+To address these issues, Atliq Grands decided to implement **Business and Data Intelligence**. They need a data analytics service provider (I) to analyze their historical data and provide actionable insights to regain market share and revenue.
 
 ---
 
