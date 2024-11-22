@@ -1,5 +1,5 @@
 # Atliq Grands Hotel Performance Dashboard
-
+![Assets/Revenu Insight thumbnail.png)](https://github.com/M-Talha-1/Revenue-Insights-in-Hospitality-Domain/blob/4e9aa3e45d7fec93405c1f1981a1450ec6c9f51f/Assets/Revenu%20Insight%20thumbnail.png)
 ## Problem Statement
 Atliq Grands, a luxury hotel chain in India, has faced significant challenges:
 - **Decreasing Market Share**: Competitors are gaining an edge with strategic moves.
